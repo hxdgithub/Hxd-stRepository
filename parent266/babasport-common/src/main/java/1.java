@@ -1,1 +1,3 @@
-public void Cone(){}
+public void Cone(){
+	1
+}
